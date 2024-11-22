@@ -1,0 +1,3 @@
+Python for Beginners
+Educational Purpose: Introduces programming concepts using Python, such as variables, loops, functions, and basic object-oriented programming. Ideal for beginners looking to start a career in programming or automate tasks.
+Outcome: Gain fundamental coding skills to build simple programs and understand programming logic.
